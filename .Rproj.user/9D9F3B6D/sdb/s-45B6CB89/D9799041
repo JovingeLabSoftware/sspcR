@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1449154181116.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D9799041",
+    "lastKnownWriteTime" : 1426616484,
+    "last_content_update" : 0,
+    "path" : "~/Google Drive/spectrum/packages/sspcR/R/sspcR.R",
+    "project_path" : "R/sspcR.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

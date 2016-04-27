@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: sspcR\nType: Package\nTitle: Quality control and analysis of Fluidigm ssqPCR experiments.\nVersion: 0.1\nDate: 2015-02-13\nAuthors@R: person(\"Andrew\", \"Borgman\",\n    email = \"andrew.borgman@spectrumhealth.org\",\n    role = c(\"aut\", \"cre\"))\nDescription: Various functions for analyzing and plotting data from Fluidigm\n    ssqPCR experiments.\nLicense: GPL-3\nDepends:\n    R (>= 3.1.0),\n    ggplot2,\n    dplyr,\n    reshape2,\n    borgmisc\nImports:\n    readxl\nCollate:\n    'Run.R'\n    'sspcR.R'\n",
+    "created" : 1426616636390.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1061176294",
+    "id" : "5EA4CE6D",
+    "lastKnownWriteTime" : 1461764406,
+    "last_content_update" : 1461764406702,
+    "path" : "~/Google Drive/spectrum/packages/sspcR/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 0,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

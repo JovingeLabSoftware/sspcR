@@ -1,0 +1,23 @@
+Package: sspcR
+Type: Package
+Title: Quality control and analysis of Fluidigm ssqPCR experiments.
+Version: 0.1
+Date: 2015-02-13
+Authors@R: person("Andrew", "Borgman",
+    email = "andrew.borgman@spectrumhealth.org",
+    role = c("aut", "cre"))
+Description: Various functions for analyzing and plotting data from Fluidigm
+    ssqPCR experiments.
+License: GPL-3
+Depends:
+    R (>= 3.1.0),
+    ggplot2,
+    dplyr,
+    reshape2,
+    borgmisc
+Imports:
+    readxl
+Collate:
+    'Run.R'
+    'sspcR.R'
+RoxygenNote: 5.0.0
